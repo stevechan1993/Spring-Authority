@@ -13,7 +13,7 @@
     <groupId>com.steve</groupId>
     <artifactId>admin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>authority-admin</name>
+    <name>admin</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -68,7 +68,7 @@
         <!-- authority-core -->
         <dependency>
             <groupId>com.steve</groupId>
-            <artifactId>authority-core</artifactId>
+            <artifactId>core</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>

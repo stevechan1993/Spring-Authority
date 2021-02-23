@@ -36,9 +36,9 @@
     </build>
 
     <modules>
-        <module>./authority-admin</module>
-        <module>./authority-common</module>
-        <module>./authority-core</module>
+        <module>./admin</module>
+        <module>./common</module>
+        <module>./core</module>
     </modules>
 
 </project>
